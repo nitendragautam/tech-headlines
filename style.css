@@ -1,0 +1,23 @@
+body{
+  font-family: Arial;
+  max-width: 800px;
+  margin: auto;
+}
+
+h1{
+  text-align:center;
+}
+
+.article{
+  border-bottom:1px solid #ddd;
+  padding:10px;
+}
+
+a{
+  text-decoration:none;
+  color:black;
+}
+
+a:hover{
+  color:#0073e6;
+}
